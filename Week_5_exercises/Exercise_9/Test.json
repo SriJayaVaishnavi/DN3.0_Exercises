@@ -1,0 +1,15 @@
+{
+    "id": 1,
+    "title": "Harrypotter",
+    "author": "JK Rowling",
+    "price": 2324.00,
+    "isbn": "978-01346324344",
+    "_links": {
+        "self": {
+            "href": "http://localhost:8080/books/1"
+        },
+        "all-books": {
+            "href": "http://localhost:8080/books"
+        }
+    }
+}
